@@ -61,5 +61,6 @@
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/aryan-eup/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/aryan-eup/Leetcode/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
