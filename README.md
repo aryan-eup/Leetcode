@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/aryan-eup/Leetcode/tree/master/2235-add-two-integers) |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan-eup/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
