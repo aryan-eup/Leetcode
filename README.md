@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aryan-eup/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aryan-eup/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/aryan-eup/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryan-eup/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -92,4 +93,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/aryan-eup/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/aryan-eup/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
