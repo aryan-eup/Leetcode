@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/aryan-eup/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryan-eup/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryan-eup/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryan-eup/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
