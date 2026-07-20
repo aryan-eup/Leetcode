@@ -105,4 +105,8 @@
 | ------- |
 | [0078-subsets](https://github.com/aryan-eup/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryan-eup/Leetcode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/aryan-eup/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
