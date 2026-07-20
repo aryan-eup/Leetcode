@@ -12,7 +12,6 @@ public:
         node->val=node->next->val;
         ListNode* curr=node->next;
         node->next=curr->next;
-        curr->next=NULL;
         delete curr;
     }
 };
