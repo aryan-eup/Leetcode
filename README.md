@@ -36,6 +36,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan-eup/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aryan-eup/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryan-eup/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -47,6 +48,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aryan-eup/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aryan-eup/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/aryan-eup/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryan-eup/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -56,6 +58,7 @@
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryan-eup/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -117,6 +120,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan-eup/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
@@ -178,4 +182,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aryan-eup/Leetcode/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
