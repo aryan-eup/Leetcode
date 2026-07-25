@@ -43,6 +43,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aryan-eup/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryan-eup/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryan-eup/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryan-eup/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Counting
@@ -82,6 +83,7 @@
 | [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/aryan-eup/Leetcode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/aryan-eup/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aryan-eup/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
