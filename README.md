@@ -15,6 +15,7 @@
 | [0216-combination-sum-iii](https://github.com/aryan-eup/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/aryan-eup/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryan-eup/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aryan-eup/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -96,6 +97,7 @@
 | [0002-add-two-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/aryan-eup/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -126,6 +128,7 @@
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan-eup/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
