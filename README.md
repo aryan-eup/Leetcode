@@ -15,6 +15,7 @@
 | [0216-combination-sum-iii](https://github.com/aryan-eup/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/aryan-eup/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryan-eup/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -71,12 +72,14 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryan-eup/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
