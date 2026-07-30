@@ -45,7 +45,7 @@ public:
             }else{
                 ls=i-psei[i];
             }
-            total=(total+1ll*ls*rs*arr[i])%mod;
+            total=(total+1l*ls*rs*arr[i])%mod;
         }
         return total;
 
