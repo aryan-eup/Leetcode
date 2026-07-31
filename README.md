@@ -31,6 +31,7 @@
 | [1920-build-array-from-permutation](https://github.com/aryan-eup/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryan-eup/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryan-eup/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/aryan-eup/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryan-eup/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan-eup/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -81,6 +82,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/aryan-eup/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/aryan-eup/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
