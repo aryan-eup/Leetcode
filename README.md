@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aryan-eup/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aryan-eup/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/aryan-eup/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/aryan-eup/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryan-eup/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -143,6 +144,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aryan-eup/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan-eup/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
