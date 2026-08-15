@@ -28,6 +28,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryan-eup/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan-eup/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@
 | [0904-fruit-into-baskets](https://github.com/aryan-eup/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryan-eup/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -124,6 +126,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/aryan-eup/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aryan-eup/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
@@ -138,6 +141,7 @@
 | [0029-divide-two-integers](https://github.com/aryan-eup/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aryan-eup/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -325,4 +329,5 @@
 | [0904-fruit-into-baskets](https://github.com/aryan-eup/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
