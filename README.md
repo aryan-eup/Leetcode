@@ -26,6 +26,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aryan-eup/Leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/aryan-eup/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/aryan-eup/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -254,6 +255,7 @@
 | [0402-remove-k-digits](https://github.com/aryan-eup/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/aryan-eup/Leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
