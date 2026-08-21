@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/aryan-eup/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryan-eup/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aryan-eup/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aryan-eup/Leetcode/tree/master/0090-subsets-ii) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryan-eup/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aryan-eup/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryan-eup/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
@@ -188,6 +190,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -361,5 +364,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
