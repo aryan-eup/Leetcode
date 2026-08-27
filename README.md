@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/aryan-eup/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryan-eup/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aryan-eup/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -260,6 +261,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/aryan-eup/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan-eup/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Tree
