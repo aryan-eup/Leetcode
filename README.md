@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/aryan-eup/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aryan-eup/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/aryan-eup/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryan-eup/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/aryan-eup/Leetcode/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/aryan-eup/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-eup/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryan-eup/Leetcode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/aryan-eup/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryan-eup/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan-eup/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan-eup/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aryan-eup/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
@@ -303,6 +306,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan-eup/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -344,6 +348,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan-eup/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
