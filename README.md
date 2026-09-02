@@ -19,6 +19,7 @@
 | [0090-subsets-ii](https://github.com/aryan-eup/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/aryan-eup/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aryan-eup/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryan-eup/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/aryan-eup/Leetcode/tree/master/0169-majority-element) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/aryan-eup/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/aryan-eup/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
