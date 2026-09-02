@@ -92,6 +92,7 @@
 | [0402-remove-k-digits](https://github.com/aryan-eup/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-eup/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aryan-eup/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryan-eup/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +120,7 @@
 | [0402-remove-k-digits](https://github.com/aryan-eup/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aryan-eup/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -274,6 +276,7 @@
 | [0402-remove-k-digits](https://github.com/aryan-eup/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aryan-eup/Leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -301,6 +304,7 @@
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan-eup/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Tree
 |  |
@@ -436,4 +440,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/aryan-eup/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryan-eup/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
