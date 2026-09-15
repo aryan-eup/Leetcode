@@ -44,6 +44,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryan-eup/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/aryan-eup/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryan-eup/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -166,6 +167,7 @@
 | [0542-01-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aryan-eup/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/aryan-eup/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/aryan-eup/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -367,6 +369,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/aryan-eup/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -409,6 +412,7 @@
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aryan-eup/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/aryan-eup/Leetcode/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -470,6 +474,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryan-eup/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/aryan-eup/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
