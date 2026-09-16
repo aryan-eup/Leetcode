@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/aryan-eup/Leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/aryan-eup/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/aryan-eup/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryan-eup/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan-eup/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -94,6 +95,7 @@
 | [0008-string-to-integer-atoi](https://github.com/aryan-eup/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aryan-eup/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryan-eup/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0127-word-ladder](https://github.com/aryan-eup/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan-eup/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aryan-eup/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
@@ -407,6 +409,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/aryan-eup/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aryan-eup/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan-eup/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
@@ -484,4 +487,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aryan-eup/Leetcode/tree/master/0547-number-of-provinces) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/aryan-eup/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
