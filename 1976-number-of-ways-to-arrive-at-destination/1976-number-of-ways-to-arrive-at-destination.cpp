@@ -16,6 +16,7 @@ public:
         while(!q.empty()){
             auto [dist,node]=q.top();
             q.pop();
+            if(dist>dis[node]) continue;
             for(auto it:adj[node]){
                 int nex=it.first;
                 long long edw=it.second;
