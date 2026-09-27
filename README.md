@@ -572,4 +572,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryan-eup/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aryan-eup/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
