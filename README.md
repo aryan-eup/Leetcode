@@ -35,6 +35,7 @@
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aryan-eup/Leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/aryan-eup/Leetcode/tree/master/0860-lemonade-change) |
@@ -83,6 +84,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/aryan-eup/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -105,6 +107,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-eup/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aryan-eup/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryan-eup/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -232,6 +235,7 @@
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan-eup/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan-eup/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -384,6 +388,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aryan-eup/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aryan-eup/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aryan-eup/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -435,6 +440,7 @@
 | [0542-01-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aryan-eup/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryan-eup/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aryan-eup/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aryan-eup/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -508,6 +514,7 @@
 | [0130-surrounded-regions](https://github.com/aryan-eup/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryan-eup/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/aryan-eup/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aryan-eup/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryan-eup/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
