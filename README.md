@@ -113,6 +113,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aryan-eup/Leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-eup/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryan-eup/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -142,6 +143,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aryan-eup/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-eup/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-eup/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-eup/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -314,6 +316,7 @@
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aryan-eup/Leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-eup/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-eup/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -521,6 +524,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aryan-eup/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-eup/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
 | ------- |
