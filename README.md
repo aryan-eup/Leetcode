@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/aryan-eup/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aryan-eup/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/aryan-eup/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0542-01-matrix) |
@@ -235,6 +237,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryan-eup/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
