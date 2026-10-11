@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int fcol=0;
-        int lcol=mat[0].size();
+        int lcol=mat[0].size()-1;
         while(lcol>=fcol){
             int mid=fcol+(lcol-fcol)/2;
             int row=0;
