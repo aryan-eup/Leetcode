@@ -35,6 +35,7 @@
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/aryan-eup/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/aryan-eup/Leetcode/tree/master/0260-single-number-iii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -188,6 +189,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/aryan-eup/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aryan-eup/Leetcode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/aryan-eup/Leetcode/tree/master/0827-making-a-large-island) |
@@ -241,6 +243,7 @@
 | [0035-search-insert-position](https://github.com/aryan-eup/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryan-eup/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -257,6 +260,7 @@
 | [0148-sort-list](https://github.com/aryan-eup/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aryan-eup/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryan-eup/Leetcode/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
@@ -345,6 +349,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan-eup/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/aryan-eup/Leetcode/tree/master/0743-network-delay-time) |
