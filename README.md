@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/aryan-eup/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aryan-eup/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aryan-eup/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aryan-eup/Leetcode/tree/master/0078-subsets) |
@@ -83,6 +84,7 @@
 | [0001-two-sum](https://github.com/aryan-eup/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-eup/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryan-eup/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/aryan-eup/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan-eup/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/aryan-eup/Leetcode/tree/master/0127-word-ladder) |
@@ -190,6 +192,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryan-eup/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aryan-eup/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/aryan-eup/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
