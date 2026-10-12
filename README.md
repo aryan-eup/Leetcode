@@ -16,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/aryan-eup/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aryan-eup/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aryan-eup/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/aryan-eup/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aryan-eup/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/aryan-eup/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -190,6 +191,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryan-eup/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryan-eup/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aryan-eup/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -213,6 +215,7 @@
 | [0007-reverse-integer](https://github.com/aryan-eup/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aryan-eup/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aryan-eup/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/aryan-eup/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
