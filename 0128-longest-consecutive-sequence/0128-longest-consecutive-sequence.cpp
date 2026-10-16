@@ -2,9 +2,9 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
        sort(nums.begin(),nums.end());
-       if(nums.size()==1) return 1;
+       if(nums.size()==0) return 0;
        int i=0,j=1;
-       int ans=0;
+       int ans=1;
        int count=1;
        while(j<nums.size()){
         if(nums[i]+1==nums[j]){
