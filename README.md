@@ -44,6 +44,7 @@
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryan-eup/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/aryan-eup/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
@@ -100,6 +101,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-eup/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-eup/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aryan-eup/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aryan-eup/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aryan-eup/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/aryan-eup/Leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/aryan-eup/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -184,6 +186,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aryan-eup/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-eup/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-eup/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
