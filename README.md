@@ -35,6 +35,7 @@
 | [0135-candy](https://github.com/aryan-eup/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aryan-eup/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryan-eup/Leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/aryan-eup/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/aryan-eup/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/aryan-eup/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -259,6 +260,7 @@
 | [0035-search-insert-position](https://github.com/aryan-eup/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan-eup/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
