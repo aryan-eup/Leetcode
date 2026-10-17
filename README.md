@@ -223,6 +223,7 @@
 | [0029-divide-two-integers](https://github.com/aryan-eup/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aryan-eup/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aryan-eup/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/aryan-eup/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-eup/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan-eup/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -258,6 +259,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryan-eup/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aryan-eup/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -655,4 +657,8 @@
 | [0178-rank-scores](https://github.com/aryan-eup/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/aryan-eup/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/aryan-eup/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryan-eup/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
