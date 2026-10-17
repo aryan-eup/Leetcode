@@ -30,7 +30,7 @@ public:
                 i = mid + 1;
         }
 
-        int last = i - 1;
+        int last = j;
 
         return {first, last};
     }
