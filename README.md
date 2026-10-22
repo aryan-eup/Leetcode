@@ -41,6 +41,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-eup/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/aryan-eup/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/aryan-eup/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/aryan-eup/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/aryan-eup/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
@@ -253,6 +254,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aryan-eup/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan-eup/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aryan-eup/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/aryan-eup/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/aryan-eup/Leetcode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan-eup/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0876-middle-of-the-linked-list](https://github.com/aryan-eup/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -269,6 +271,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-eup/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-eup/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-eup/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/aryan-eup/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryan-eup/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/aryan-eup/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/aryan-eup/Leetcode/tree/master/0704-binary-search) |
@@ -325,6 +328,7 @@
 | [0136-single-number](https://github.com/aryan-eup/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryan-eup/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/aryan-eup/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/aryan-eup/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aryan-eup/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
@@ -672,4 +676,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aryan-eup/Leetcode/tree/master/0069-sqrtx) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryan-eup/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryan-eup/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
